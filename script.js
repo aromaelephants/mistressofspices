@@ -178,7 +178,7 @@ function generateBillMessage(customerName, invoiceNumber) {
     });
     billMessage += `\nTotal: ₹${totalAmountDisplay.textContent}`;
 
-    billMessage += `\n\nThank you for shopping with Aroma Elephants`;
-  billMessage += "\nHappy Lighting :)";
+    billMessage += `\n\nThank you for shopping with Mistress Of Spices`;
+  //billMessage += "\nHappy Lighting :)";
     return billMessage;
 }
