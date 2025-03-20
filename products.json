@@ -1,17 +1,92 @@
 [
     {
-      "qrCode": "PRODUCT123",
-      "name": "Laptop",
-      "price": 1200.00
+        "qrCode": "SP-100g",
+        "name": "Sambhar powder - 100g",
+        "price": 100.00
     },
     {
-      "qrCode": "PRODUCT456",
-      "name": "Mouse",
-      "price": 25.00
+        "qrCode": "RP-100g",
+        "name": "Rasam powder - 100g",
+        "price": 100.00
     },
-      {
-      "qrCode": "PRODUCT789",
-      "name": "Keyboard",
-      "price": 50.00
+    {
+        "qrCode": "GM-100g",
+        "name": "Goda masala - 100g",
+        "price": 80.00
+    },
+    {
+        "qrCode": "BBBM-100g",
+        "name": "Besi Belai Baat masala - 100g",
+        "price": 80.00
+    },
+    {
+        "qrCode": "GRM-100g",
+        "name": "Garam masala - 100g",
+        "price": 100.00
+    },
+    {
+        "qrCode": "IP-100g",
+        "name": "Idli podi - 100g",
+        "price": 50.00
+    },
+    {
+        "qrCode": "CLP-100g",
+        "name": "Curry leaf powder - 100g",
+        "price": 100.00
+    },
+    {
+        "qrCode": "FSC-100g",
+        "name": "Flaxseed chutney - 100g",
+        "price": 50.00
+    },
+    {
+        "qrCode": "FGC-100g",
+        "name": "Fried gram chutney - 100g",
+        "price": 40.00
+    },
+    {
+        "qrCode": "GNC-100g",
+        "name": "Groundnut chutney - 100g",
+        "price": 50.00
+    },
+    {
+        "qrCode": "GRC-100g",
+        "name": "Gurellu chutney - 100g",
+        "price": 40.00
+    },
+    {
+        "qrCode": "GC-100g",
+        "name": "Garlic chutney - 100g",
+        "price": 60.00
+    },
+    {
+        "qrCode": "RRC-100g",
+        "name": "Raja Rani chutney - 100g",
+        "price": 60.00
+    },
+    {
+        "qrCode": "KP-100g",
+        "name": "Koora pudi - 100g",
+        "price": 60.00
+    },
+    {
+        "qrCode": "DLC-100g",
+        "name": "Drumstick leaves chutney - 100g",
+        "price": 100.00
+    },
+    {
+        "qrCode": "MMH-100g",
+        "name": "Metkut/Mente Hittu - 100g",
+        "price": 65.00
+    },
+    {
+        "qrCode": "GT-100g",
+        "name": "Garlic Thokku - 100g",
+        "price": 120.00
+    },
+    {
+        "qrCode": "NL-100g",
+        "name": "Nutripack ladoo - 100g",
+        "price": 160.00
     }
-  ]
+]
