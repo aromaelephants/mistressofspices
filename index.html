@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Aroma Elephants Billing</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body>
+  <h1>Mistress Of Spices - Billing</h1>
+
+  <video id="preview"></video>
+
+  <div id="scan-results">
+    <h2>Scanned Products</h2>
+    <ul id="product-list"></ul>
+    <p>Total: <span id="total-amount">0.00</span></p>
+    <div>
+      <label for="customerName">Customer Name:</label>
+      <input type="text" id="customerName" placeholder="Enter customer name">
+    </div>
+    <div>
+      <label for="customerNumber">Customer WhatsApp Number:</label>
+      <input type="tel" id="customerNumber" placeholder="Enter number">
+      <button id="generateBillButton">Generate & Send Bill</button>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+[
+    {
+      "qrCode": "PRODUCT123",
+      "name": "Laptop",
+      "price": 1200.00
+    },
+    {
+      "qrCode": "PRODUCT456",
+      "name": "Mouse",
+      "price": 25.00
+    },
+      {
+      "qrCode": "PRODUCT789",
+      "name": "Keyboard",
+      "price": 50.00
+    }
+  ]
