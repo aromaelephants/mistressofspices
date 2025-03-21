@@ -30,6 +30,13 @@ body {
     padding: 5px; /* Adjust padding as needed */
   }
 
+.product-item button[onclick^="increaseQuantity"] { /* targeting only reduce quantity buttons */
+    width: 30px; /* Adjust width as needed */
+    height: 30px; /* Adjust height as needed */
+    font-size: 16px; /* Adjust font size as needed */
+    padding: 5px; /* Adjust padding as needed */
+  }
+
   .product-item button[onclick^="removeProduct"] { /* targeting only reduce quantity buttons */
     width: 30px; /* Adjust width as needed */
     height: 30px; /* Adjust height as needed */
