@@ -159,7 +159,7 @@ generateBillButton.addEventListener('click', () => {
 
     const invoiceNumber = generateInvoiceNumber();
     const billMessage = generateBillMessage(customerName, invoiceNumber);
-    const whatsappLink = `https://wa.me/${customerNumber}?text=${encodeURI(billMessage)}`;
+    const whatsappLink = `https://wa.me/+91${customerNumber}?text=${encodeURI(billMessage)}`;
     window.open(whatsappLink, '_blank');
 
     customerNameInput.value = '';
