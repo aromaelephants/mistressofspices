@@ -87,6 +87,7 @@ function updateDisplay() {
             <span>${product.name} - ₹${product.price.toFixed(2)} x ${product.quantity}</span>
             <div>
                 <button onclick="reduceQuantity('${product.qrCode}')">-</button>
+                <button onclick="increaseQuantity('${product.qrCode}')">+</button>
                 <button onclick="removeProduct('${product.qrCode}')">Remove</button>
             </div>
         `;
@@ -101,6 +102,13 @@ function reduceQuantity(qrCode) {
     const product = scannedProducts.find(p => p.qrCode === qrCode);
     if (product && product.quantity > 1) {
         product.quantity--;
+        updateDisplay();
+    }
+}
+function increaseQuantity(qrCode) {
+    const product = scannedProducts.find(p => p.qrCode === qrCode);
+    if (product) {
+        product.quantity++;
         updateDisplay();
     }
 }
