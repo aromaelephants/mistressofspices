@@ -43,5 +43,65 @@
         "qrCode": "GT-100g",
         "name": "Garlic Thokku - 100g",
         "price": 100.00
+    },
+
+
+    {
+      "qrCode": "AE-glassjar-200g-2303",
+      "name": "Glass Jar (200g)",
+      "price": 300.00
+    },
+    {
+      "qrCode": "AE-terracotta-matka-2303",
+      "name": "Terracotta(matka)",
+      "price": 99.00
+    },
+    {
+      "qrCode": "AE-terracotta-bowl(3-wick)-2303",
+      "name": "Terracotta(bowl 3-wick)",
+      "price": 250.00
+    },
+    {
+      "qrCode": "AE-christmas-tree-2303",
+      "name": "Christmas tree",
+      "price": 130.00
+    },
+    {
+      "qrCode": "AE-beacon-2303",
+      "name": "Beacon",
+      "price": 200.00
+    },
+    {
+      "qrCode": "AE-red-beacon-2303",
+      "name": "Beacon Red",
+      "price": 250.00
+    },
+    
+    {
+      "qrCode": "AE-heart-2303",
+      "name": "Heart",
+      "price": 80.00
+    },
+    
+    {
+      "qrCode": "AE-Teddy-Bear-2303",
+      "name": "Teddy Bear"
+      "price": 80.00
+    },
+    {
+      "qrCode": "AE-rose-2303",
+      "name": "Rose Red",
+      "price": 70.00
+    },
+    {
+      "qrCode": "AE-rose-Cream-2303",
+      "name": "Rose(cream)",
+      "price": 60.00
+    },
+    {
+      "qrCode": "AE-message-2303",
+      "name": "Massage Candle",
+      "price": 350.00
     }
-]
+  ]
+
